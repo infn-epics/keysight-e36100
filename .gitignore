@@ -1,0 +1,10 @@
+O.*/
+bin/
+lib/
+db/
+dbd/
+include/
+html/
+envPaths
+*.local
+__pycache__/

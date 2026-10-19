@@ -1,0 +1,4 @@
+# CONFIG_SITE - site settings for this module
+# Restrict the build to the host architecture, as the IOC image does:
+#CROSS_COMPILER_TARGET_ARCHS =
+-include $(TOP)/configure/CONFIG_SITE.local

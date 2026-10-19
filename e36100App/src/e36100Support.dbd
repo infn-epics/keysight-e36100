@@ -1,0 +1,3 @@
+registrar(e36100DriverRegister)
+registrar(e36100RampOnRegistrar)
+registrar(e36100SafeOffRegistrar)
